@@ -3,13 +3,15 @@ SenseBreast Hat for Raspberry Pi
 Copyright 2019 SuperHouse Automation Pty Ltd www.superhouse.tv  
 
 Multiple sensors integrated into a Raspberry Pi hat format for use in
-construction of prosthetic breasts as part of the Sense Breast project.
+construction of a prosthetic breast as part of the Sense Breast project.
+Sensor data can be logged locally and accessed via WiFi, or published
+to a data broker such as MQTT.
 
 
 FEATURES
 --------
 
- * BME280 temperature, pressure, and humidity sensor.
+ * BME680 temperature, pressure, humidity, and VOC gas sensor.
  * 9-DOF IMU with I2C interface.
  * Connector for external heart rate sensor.
 
