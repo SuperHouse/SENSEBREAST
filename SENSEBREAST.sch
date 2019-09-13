@@ -4104,7 +4104,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21034D.pdf</description>
 <frame x1="5.08" y1="12.7" x2="116.84" y2="25.4" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
 <frame x1="35.56" y1="12.7" x2="66.04" y2="17.78" columns="8" rows="5" layer="94"/>
 <frame x1="5.08" y1="5.08" x2="116.84" y2="17.78" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
-<text x="7.62" y="14.478" size="1.778" layer="94">SKU: SB</text>
+<text x="7.62" y="14.478" size="1.778" layer="94">SKU: SENSEBREAST</text>
 <text x="10.16" y="176.53" size="1.778" layer="94">Raspberry Pi Header</text>
 <wire x1="53.34" y1="104.14" x2="53.34" y2="181.61" width="0.3048" layer="97" style="longdash"/>
 <wire x1="5.08" y1="104.14" x2="53.34" y2="104.14" width="0.3048" layer="97" style="longdash"/>
@@ -4643,6 +4643,7 @@ SSD1306 OLED: 0x3C</text>
 <errors>
 <approved hash="104,1,134.62,127,IC1,VDD,3.3V,,,"/>
 <approved hash="104,1,160.02,124.46,IC1,VDDIO,3.3V,,,"/>
+<approved hash="202,1,58.42,76.2,IC2,CH1,,,,"/>
 </errors>
 </schematic>
 </drawing>
